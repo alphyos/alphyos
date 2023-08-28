@@ -1,5 +1,5 @@
 # Alphyos
-###Cyber Warfare Operations & Computer Science Student
+Cyber Warfare Operations & Computer Science Student
 
 ## In The Works
 - 🥇 200+ Challenge Writeup
