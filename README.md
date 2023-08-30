@@ -7,5 +7,5 @@ Cyber Warfare Operations & Computer Science Student
 - 🔎 OSINT Framework
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alphyos&show_icons=true&theme=omni&rank_icon=github&include_all_commit=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alphyos&show_icons=true&theme=omni&rank_icon=github&include_all_commit=true"/>
 </a>
