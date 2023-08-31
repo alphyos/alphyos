@@ -1,8 +1,8 @@
-# Alphyos
+# Alphyos ![](https://komarev.com/ghpvc/?username=alphyos&color=ff88bf)
 Cyber Warfare Operations & Computer Science Student
 
 ## In The Works
-- 🥇 200+ Challenge Writeup
+- 🥇 200+ Challenge Writeup ![progress](https://progress-bar.dev/12/?scale=248&title=Uploaded:&suffix=/248&color=ff88bf)
 - 🌲 Keylogger
 - 🔎 OSINT Framework
 
