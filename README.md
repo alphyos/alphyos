@@ -2,7 +2,7 @@
 Cyber Warfare Operations & Computer Science Student
 
 ## In The Works
-- 🥇 200+ Challenge Writeup ![progress](https://progress-bar.dev/12/?scale=248&title=Uploaded:&suffix=/248&color=ff88bf)
+- 🥇 200+ Challenge Writeup ![progress](https://progress-bar.dev/13/?scale=248&title=Uploaded:&suffix=/248&color=ff88bf)
 - 🌲 Keylogger
 - 🔎 OSINT Framework
 
