@@ -14,7 +14,8 @@ Cyber Warfare Operations & Computer Science Student
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+<!--- Because rn this is too big and ugly and i like the snake
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alphyos&show_icons=true&theme=omni&rank_icon=github&include_all_commit=true"/>
 </a>
+--->
