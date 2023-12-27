@@ -6,8 +6,8 @@ Cyber Warfare Operations & Computer Science Student
 ## In The Works
 - 🥇 200+ Challenge Writeup ![progress](https://progress-bar.dev/237/?scale=248&title=Uploaded:&suffix=/248&color=ff88bf)
 - 🔎 OSINT Framework
-- 📱 Personal Android SKD
-- 🌲 Keylogger <!---delayed 1/11-->
+- ~~📱 Personal Android SKD~~
+- ~~🌲 Keylogger + Funky Executions (On a rubberducky!)~~
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alphyos/alphyos/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alphyos/alphyos/output/github-contribution-grid-snake.svg">
