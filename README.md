@@ -4,8 +4,8 @@ Cyber Warfare Operations & Computer Science Student
 - 18
 
 ## In The Works
-- 🥇 200+ Challenge Writeup ![progress](https://progress-bar.dev/237/?scale=248&title=Uploaded:&suffix=/248&color=ff88bf)
 - 🔎 OSINT Framework
+- ~~🥇 200+ Challenge Writeup : ![progress](https://progress-bar.dev/260/?scale=258&title=Uploaded:&suffix=/258&color=ff88bf)~~
 - ~~📱 Personal Android SKD~~
 - ~~🌲 Keylogger + Funky Executions (On a rubberducky!)~~
 <picture>
