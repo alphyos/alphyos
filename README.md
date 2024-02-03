@@ -4,10 +4,7 @@ Cyber Warfare Operations Student working as a SOC Analyst :o)
 - 18
 
 ## In The Works
-- 🔎 OSINT Framework
-- ~~🥇 200+ Challenge Writeup : ![progress](https://progress-bar.dev/260/?scale=258&title=Uploaded:&suffix=/258&color=ff88bf)~~
-- ~~📱 Personal Android SKD~~
-- ~~🌲 Keylogger + Funky Executions (On a rubberducky!)~~
+- 📊 Data Structures Stuff
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alphyos/alphyos/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alphyos/alphyos/output/github-contribution-grid-snake.svg">
