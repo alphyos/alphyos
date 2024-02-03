@@ -1,5 +1,5 @@
 # Alphyos ![](https://komarev.com/ghpvc/?username=alphyos&color=ff88bf)
-Cyber Warfare Operations & Computer Science Student working as a SOC Analyst :o)
+Cyber Warfare Operations Student working as a SOC Analyst :o)
 - Sophomore
 - 18
 
