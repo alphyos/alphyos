@@ -1,7 +1,7 @@
 # Alphyos ![](https://komarev.com/ghpvc/?username=alphyos&color=ff88bf)
-Cyber Warfare Operations Student working as a SOC Analyst :o)
-- Sophomore
-- 18
+Cyber Warfare Operations Student working as a Cybersecurity Engineer :o)
+- Junior
+- 19
 
 ## In The Works
 - 📊 Data Structures Stuff
