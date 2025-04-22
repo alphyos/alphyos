@@ -1,6 +1,4 @@
 # Alphyos ![](https://komarev.com/ghpvc/?username=alphyos&color=ff88bf)
-Cybersec Grad
-- 20
 
 ## In The Works
 - ~~🥇 260 Challenge Writeup : ![progress](https://progress-bar.dev/260/?scale=258&title=Uploaded:&suffix=/258&color=ff88bf)~~
