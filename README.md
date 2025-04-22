@@ -1,10 +1,8 @@
 # Alphyos ![](https://komarev.com/ghpvc/?username=alphyos&color=ff88bf)
-Cyber Warfare Operations Student working as a Cybersecurity Engineer :o)
-- Junior
-- 19
+Cybersec Grad
+- 20
 
 ## In The Works
-- 📊 Data Structures Stuff
 - ~~🥇 260 Challenge Writeup : ![progress](https://progress-bar.dev/260/?scale=258&title=Uploaded:&suffix=/258&color=ff88bf)~~
 - ~~📱 Personal Android SKD~~
 - ~~🌲 Keylogger + Funky Executions (On a rubberducky!)~~
