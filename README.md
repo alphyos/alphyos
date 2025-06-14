@@ -1,9 +1,4 @@
-# Alphyos ![](https://komarev.com/ghpvc/?username=alphyos&color=ff88bf)
-
-## In The Works
-- ~~🥇 260 Challenge Writeup : ![progress](https://progress-bar.dev/260/?scale=258&title=Uploaded:&suffix=/258&color=ff88bf)~~
-- ~~📱 Personal Android SKD~~
-- ~~🌲 Keylogger + Funky Executions (On a rubberducky!)~~
+# alphyos ![](https://komarev.com/ghpvc/?username=alphyos&color=ff88bf)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alphyos/alphyos/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alphyos/alphyos/output/github-contribution-grid-snake.svg">
